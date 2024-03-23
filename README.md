@@ -16,14 +16,12 @@ This web application is a mini project developed for facilitating online voting 
 
 ## Live Demo
 
-Check out the live demo of the Online Voting System: [Live Demo](#) (Demo link will be added once available)
+Check out the live demo of the Online Voting System: [Live Demo](https://thsurajsinghrajput.github.io/vote/) 
 
 ## Screenshots
 
 ![Screenshot 1](https://github.com/thsurajsinghrajput/vote/blob/main/screenshot/Screenshot%202024-03-23%20194151.png)
 ![Screenshot 2](https://github.com/thsurajsinghrajput/vote/blob/main/screenshot/Screenshot%202024-03-23%20194209.png)
-(Add screenshots of your application to showcase its interface and features)
 
----
 
 Thank you for your interest in the Online Voting System! If you have any questions, suggestions, or feedback, feel free to reach out. Happy voting! 🎉
